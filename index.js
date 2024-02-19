@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["👻Spectating : SinCity RP","💻Coding Scripts for SinCity RP ","🔥Playing SinCity RP"];
+const statusMessages = ["💻Security Check Starting","✨Check Complete!","🛡️Lost Security !🛡️"];
 
 
 let currentIndex = 0;
