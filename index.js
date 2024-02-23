@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["💻Security Check Starting","✨Check Complete!","🛡️Lost Security !🛡️"];
+const statusMessages = ["💻Security Check Starting","✨Scan Complete No Pussies Found","🛡️Fallen Security !🛡️"];
 
 
 let currentIndex = 0;
