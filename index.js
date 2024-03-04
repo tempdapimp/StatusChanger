@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["💻Security Check Starting...","✨Scan Complete!","🛡️Fallen Security !🛡️"];
+const statusMessages = ["☁️Takin Over Turfs","Killin Da Rest❌","👻! Ghost Security !🛡️"];
 
 
 let currentIndex = 0;
